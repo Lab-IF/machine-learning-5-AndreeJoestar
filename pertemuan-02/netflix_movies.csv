@@ -1,0 +1,101 @@
+show_id,type,title,director,country,date_added,release_year,rating,duration,genre,imdb_score
+s1,Movie,Inception,Christopher Nolan,United States,January 1 2021,2010,PG-13,148 min,Sci-Fi,8.8
+s2,Movie,The Dark Knight,Christopher Nolan,United States,March 15 2021,2008,PG-13,152 min,Action,9.0
+s3,Movie,Interstellar,Christopher Nolan,United States,June 10 2021,2014,PG-13,169 min,Sci-Fi,8.6
+s4,Movie,The Irishman,Martin Scorsese,United States,November 27 2019,2019,R,209 min,Crime,7.8
+s5,Movie,Bird Box,Susanne Bier,United States,December 21 2018,2018,R,124 min,Horror,6.6
+s6,Movie,Extraction,Sam Hargrave,United States,April 24 2020,2020,R,116 min,Action,6.7
+s7,Movie,The Old Guard,Gina Prince-Bythewood,United States,July 10 2020,2020,R,125 min,Action,6.6
+s8,Movie,Mank,David Fincher,United States,December 4 2020,2020,R,131 min,Drama,6.8
+s9,Movie,Malcolm & Marie,Sam Levinson,United States,February 5 2021,2021,R,106 min,Drama,6.3
+s10,Movie,The Midnight Sky,George Clooney,United States,December 23 2020,2020,PG-13,118 min,Sci-Fi,5.6
+s11,Movie,Army of the Dead,Zack Snyder,United States,May 21 2021,2021,R,148 min,Horror,5.7
+s12,Movie,Thunder Force,Ben Falcone,United States,April 9 2021,2021,PG-13,107 min,Comedy,4.0
+s13,Movie,Holidate,John Whitesell,United States,October 28 2020,2020,TV-14,104 min,Romance,5.7
+s14,Movie,To All the Boys I Loved Before,Susan Johnson,United States,August 17 2018,2018,TV-G,99 min,Romance,6.8
+s15,Movie,The Kissing Booth,Vince Marcello,United States,May 11 2018,2018,TV-14,105 min,Romance,5.9
+s16,Movie,Tall Girl,Nzingha Stewart,United States,September 13 2019,2019,TV-G,101 min,Romance,5.3
+s17,Movie,Work It,Laura Terruso,United States,August 7 2020,2020,TV-G,93 min,Comedy,5.8
+s18,Movie,The Half of It,Alice Wu,United States,May 1 2020,2020,TV-14,104 min,Romance,7.1
+s19,Movie,Set It Up,Claire Scanlon,United States,June 15 2018,2018,TV-14,105 min,Romance,6.5
+s20,Movie,Always Be My Maybe,Nahnatchka Khan,United States,May 31 2019,2019,TV-14,101 min,Romance,6.7
+s21,Movie,Parasite,Bong Joon-ho,South Korea,April 8 2020,2019,R,132 min,Thriller,8.5
+s22,Movie,Train to Busan,Yeon Sang-ho,South Korea,September 22 2020,2016,NR,118 min,Horror,7.6
+s23,Movie,Okja,Bong Joon-ho,South Korea,June 28 2017,2017,TV-MA,120 min,Drama,7.3
+s24,Movie,I Lost My Body,Jeremy Clapin,France,November 29 2019,2019,TV-MA,81 min,Animation,7.5
+s25,Movie,The Guilty,Antoine Fuqua,United States,October 1 2021,2021,R,90 min,Thriller,6.4
+s26,Movie,Roma,Alfonso Cuaron,Mexico,December 14 2018,2018,R,135 min,Drama,7.7
+s27,Movie,Pans Labyrinth,Guillermo del Toro,Spain,January 1 2020,2006,R,118 min,Fantasy,8.2
+s28,Movie,The Platform,Galder Gaztelu-Urrutia,Spain,March 20 2020,2019,TV-MA,94 min,Thriller,7.0
+s29,Movie,RRR,S.S. Rajamouli,India,May 20 2022,2022,NR,182 min,Action,7.8
+s30,Movie,Dangal,Nitesh Tiwari,India,October 5 2017,2016,TV-PG,161 min,Drama,8.3
+s31,Movie,Lust Stories,Anurag Kashyap,India,June 15 2018,2018,TV-MA,100 min,Drama,6.5
+s32,Movie,Delhi Crime,Richie Mehta,India,March 22 2019,2019,TV-MA,60 min,Crime,8.5
+s33,Movie,Mirage,Oriol Paulo,Spain,June 21 2018,2018,TV-MA,129 min,Thriller,7.2
+s34,Movie,Calibre,Matt Palmer,United Kingdom,June 29 2018,2018,TV-MA,101 min,Thriller,7.1
+s35,Movie,His House,Remi Weekes,United Kingdom,October 30 2020,2020,TV-MA,93 min,Horror,6.9
+s36,Movie,The Dig,Simon Stone,United Kingdom,January 29 2021,2021,PG,112 min,Drama,6.9
+s37,Movie,Enola Holmes,Harry Bradbeer,United Kingdom,September 23 2020,2020,PG-13,123 min,Mystery,6.7
+s38,Movie,Dumplin,Anne Fletcher,United States,December 7 2018,2018,PG-13,110 min,Comedy,6.5
+s39,Movie,Dolemite Is My Name,Craig Brewer,United States,October 25 2019,2019,R,118 min,Comedy,7.3
+s40,Movie,Murder Mystery,Kyle Newacheck,United States,June 14 2019,2019,PG-13,97 min,Comedy,6.0
+s41,Movie,Spenser Confidential,Peter Berg,United States,March 6 2020,2020,R,111 min,Action,6.2
+s42,Movie,6 Underground,Michael Bay,United States,December 13 2019,2019,R,128 min,Action,6.1
+s43,Movie,Fear Street Part 1,Leigh Janiak,United States,July 2 2021,2021,R,107 min,Horror,6.3
+s44,Movie,Fear Street Part 2,Leigh Janiak,United States,July 9 2021,2021,R,110 min,Horror,6.6
+s45,Movie,The Power of the Dog,Jane Campion,New Zealand,December 1 2021,2021,R,126 min,Drama,6.8
+s46,Movie,Tick Tick Boom,Lin-Manuel Miranda,United States,November 19 2021,2021,PG-13,115 min,Musical,7.6
+s47,Movie,The Hand of God,Paolo Sorrentino,Italy,December 15 2021,2021,R,130 min,Drama,7.3
+s48,Movie,Passing,Rebecca Hall,United States,November 10 2021,2021,PG,98 min,Drama,6.8
+s49,Movie,Dont Look Up,Adam McKay,United States,December 24 2021,2021,R,138 min,Comedy,7.2
+s50,Movie,Red Notice,Rawson Marshall Thurber,United States,November 12 2021,2021,PG-13,118 min,Action,6.3
+s51,Movie,The Harder They Fall,Jeymes Samuel,United States,November 3 2021,2021,R,139 min,Western,6.6
+s52,Movie,Kate,Cedric Nicolas-Troyan,United States,September 10 2021,2021,R,106 min,Action,6.2
+s53,Movie,Sweet Girl,Brian Andrew Mendoza,United States,August 20 2021,2021,R,110 min,Action,5.4
+s54,Movie,The Last Letter from Your Lover,Augustine Frizzell,United Kingdom,July 23 2021,2021,TV-14,110 min,Romance,6.5
+s55,Movie,Hes All That,Mark Waters,United States,August 27 2021,2021,TV-14,92 min,Romance,4.6
+s56,Movie,Army of Thieves,Matthias Schweighofer,Germany,October 29 2021,2021,TV-MA,127 min,Action,6.4
+s57,Movie,The Unforgivable,Nora Fingscheidt,United States,December 10 2021,2021,R,112 min,Drama,6.8
+s58,Movie,True Story,Stephen Williams,United States,November 24 2021,2021,TV-MA,200 min,Crime,6.4
+s59,Movie,Bruised,Halle Berry,United States,November 24 2021,2021,R,130 min,Drama,5.8
+s60,Movie,The Princess Switch,Mike Rohl,United States,November 16 2018,2018,TV-G,101 min,Romance,5.7
+s61,TV Show,Squid Game,Hwang Dong-hyuk,South Korea,September 17 2021,2021,TV-MA,9 episodes,Thriller,8.0
+s62,TV Show,Stranger Things,The Duffer Brothers,United States,July 15 2016,2016,TV-14,4 seasons,Sci-Fi,8.7
+s63,TV Show,The Crown,Peter Morgan,United Kingdom,November 4 2016,2016,TV-MA,6 seasons,Drama,8.6
+s64,TV Show,Bridgerton,Chris Van Dusen,United States,December 25 2020,2020,TV-MA,2 seasons,Romance,7.3
+s65,TV Show,Money Heist,Alex Pina,Spain,January 1 2018,2017,TV-MA,5 seasons,Crime,8.2
+s66,TV Show,Dark,Baran bo Odar,Germany,December 1 2017,2017,TV-MA,3 seasons,Sci-Fi,8.8
+s67,TV Show,Ozark,Bill Dubuque,United States,July 21 2017,2017,TV-MA,4 seasons,Crime,8.4
+s68,TV Show,The Witcher,Lauren Schmidt,United States,December 20 2019,2019,TV-MA,3 seasons,Fantasy,8.2
+s69,TV Show,Emily in Paris,Darren Star,United States,October 2 2020,2020,TV-MA,3 seasons,Romance,6.9
+s70,TV Show,You,Greg Berlanti,United States,December 26 2018,2018,TV-MA,4 seasons,Thriller,7.7
+s71,TV Show,Black Mirror,Charlie Brooker,United Kingdom,December 16 2011,2011,TV-MA,6 seasons,Sci-Fi,8.8
+s72,TV Show,Mindhunter,David Fincher,United States,October 13 2017,2017,TV-MA,2 seasons,Crime,8.6
+s73,TV Show,Narcos,Chris Brancato,United States,August 28 2015,2015,TV-MA,3 seasons,Crime,8.8
+s74,TV Show,Lupin,George Kay,France,January 8 2021,2021,TV-MA,3 seasons,Thriller,7.5
+s75,TV Show,Cobra Kai,Josh Heald,United States,August 28 2020,2020,TV-14,6 seasons,Action,8.5
+s76,TV Show,Peaky Blinders,Steven Knight,United Kingdom,September 30 2016,2016,TV-MA,6 seasons,Crime,8.8
+s77,TV Show,The Umbrella Academy,Steve Blackman,United States,February 15 2019,2019,TV-14,3 seasons,Sci-Fi,7.9
+s78,TV Show,Locke and Key,Carlton Cuse,United States,February 7 2020,2020,TV-14,3 seasons,Fantasy,7.4
+s79,TV Show,Virgin River,Sue Tenney,United States,December 6 2019,2019,TV-MA,5 seasons,Romance,7.4
+s80,TV Show,Outer Banks,Jonas Pate,United States,April 15 2020,2020,TV-MA,3 seasons,Adventure,7.6
+s81,TV Show,Sweet Magnolias,Sheryl J. Anderson,United States,May 19 2020,2020,TV-PG,3 seasons,Romance,7.0
+s82,TV Show,Never Have I Ever,Mindy Kaling,United States,April 27 2020,2020,TV-14,4 seasons,Comedy,7.9
+s83,TV Show,On My Block,Lauren Iungerich,United States,March 16 2018,2018,TV-14,4 seasons,Comedy,8.0
+s84,TV Show,Ginny and Georgia,Debra J. Fisher,United States,February 24 2021,2021,TV-MA,2 seasons,Drama,7.8
+s85,TV Show,The Haunting of Hill House,Mike Flanagan,United States,October 12 2018,2018,TV-MA,1 seasons,Horror,8.6
+s86,TV Show,Midnight Mass,Mike Flanagan,United States,September 24 2021,2021,TV-MA,1 seasons,Horror,7.7
+s87,TV Show,Archive 81,Rebecca Thomas,United States,January 14 2022,2022,TV-MA,1 seasons,Horror,7.2
+s88,TV Show,All of Us Are Dead,Lee JQ,South Korea,January 28 2022,2022,TV-MA,1 seasons,Horror,7.6
+s89,TV Show,Hellbound,Yeon Sang-ho,South Korea,November 19 2021,2021,TV-MA,1 seasons,Horror,6.7
+s90,TV Show,Kingdom,Kim Seong-hun,South Korea,January 25 2019,2019,TV-MA,2 seasons,Horror,8.4
+s91,TV Show,My Mister,Kim Won-seok,South Korea,March 21 2018,2018,TV-14,1 seasons,Drama,9.2
+s92,TV Show,Reply 1988,Shin Won-ho,South Korea,November 6 2015,2015,TV-14,1 seasons,Drama,9.0
+s93,TV Show,Its Okay to Not Be Okay,Park Shin-woo,South Korea,June 20 2020,2020,TV-14,1 seasons,Romance,8.8
+s94,TV Show,Hospital Playlist,Shin Won-ho,South Korea,March 12 2020,2020,TV-14,2 seasons,Drama,9.0
+s95,TV Show,Move to Heaven,Kim Sung-ho,South Korea,May 14 2021,2021,TV-14,1 seasons,Drama,9.0
+s96,TV Show,Crash Landing on You,Lee Jung-hyo,South Korea,December 14 2019,2019,TV-14,1 seasons,Romance,8.7
+s97,TV Show,Extraordinary Attorney Woo,Yoo In-shik,South Korea,June 29 2022,2022,TV-14,1 seasons,Drama,8.7
+s98,TV Show,Hometown Cha-Cha-Cha,Yu Je-won,South Korea,August 28 2021,2021,TV-14,1 seasons,Romance,8.5
+s99,TV Show,Business Proposal,Park Sun-ho,South Korea,February 28 2022,2022,TV-14,1 seasons,Romance,7.9
+s100,TV Show,Twenty Five Twenty One,Jung Ji-hyun,South Korea,February 12 2022,2022,TV-14,1 seasons,Romance,8.7
